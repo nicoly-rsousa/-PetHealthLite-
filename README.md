@@ -122,4 +122,4 @@ const MEDICO_FIXO = {
 Desenvolvido por **Nicoly Rsousa e Mhell Barroca**  
 Curso Técnico em Desenvolvimento de Sistemas — RPV 2026
 
-Deploy:https://github.com/nicoly-rsousa/PetHealthLite
+Deploy:https://nicoly-rsousa.github.io/-PetHealthLite-/

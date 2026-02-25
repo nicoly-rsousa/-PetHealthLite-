@@ -44,7 +44,6 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center px-6 py-16">
-      {/* Hero */}
       <div className="text-center mb-14">
         <h1 className="text-4xl font-extrabold text-gray-900 mb-4">
           Bem-vindo ao{" "}
@@ -57,7 +56,6 @@ export default function Home() {
         </p>
       </div>
 
-      {/* Cards */}
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 w-full max-w-3xl">
         {cards.map((card) => (
           <div
